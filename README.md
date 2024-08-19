@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Sameer Asim
+- 👀 I’m interested in Data Analysis and Business Analysis
+- 🌱 I’m currently learning Python and Django
+- 💞️ I’m looking to collaborate on Python project and Data Analysis Project
+- 📫 How to reach me msameerasim24@gmail.com
